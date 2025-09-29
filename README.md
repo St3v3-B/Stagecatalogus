@@ -31,7 +31,7 @@
 ## 🚀 Quickstart
 1. **Repository clonen**
    ```bash
-   git clone https://github.com/<jouw-account>/stagecatalogus.git
+   git clone https://github.com/St3v3-B/stagecatalogus.git
    cd stagecatalogus
    ```
 
@@ -61,11 +61,6 @@
 - Installer checkt bestandsrechten en verplicht een sterk adminwachtwoord.
 - `.gitignore` beschermt `storage/app_config.php`, uploads en overige lokale artefacts.
 
-## 📸 Screens & UI highlights
-| Publieke catalogus | Stagekeuze wizard | Admin dashboard |
-|--------------------|-------------------|-----------------|
-| _Voeg screenshots toe (PNG/JPG)_ | _Screenshots van stappen_ | _Dashboard overzicht_ |
-
 ## 🧪 Testen & onderhoud
 - Handmatige QA: token-claim flow → filters → detailpagina → stagekeuze inzending.
 - Upload een logo/video en check de rendering & caching.
@@ -77,9 +72,6 @@
 2. Maak een feature branch (`git checkout -b feature/nieuwe-actie`).
 3. Commit kleine, duidelijke stappen.
 4. Open een Pull Request met beschrijving & test-notes.
-
-## 📄 Licentie
-Kies een licentie en voeg `LICENSE` toe (bijv. MIT, GPL, propriëtair).
 
 ---
 
